@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri "C:/Users/Brandon Gong/Desktop/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name music-controller-rescue)(type Legacy)(uri "${KIPRJMOD}/music controller-rescue.lib")(options "")(descr ""))
+)
